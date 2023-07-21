@@ -1,0 +1,30 @@
+#player {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: brown;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/* Create animation to make the circle open and close mouth */
+
+
+
+.reward {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blue;
+    position: absolute;
+}
+
+#reward {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
